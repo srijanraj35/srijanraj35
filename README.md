@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srijanraj35
 - 👀 I’m interested in hacking 
-- 🌱 I’m currently learning 11th
-- 💞️ I’m looking to collaborate on anything 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me srijansuju51@gmail.com
 
 <!---
